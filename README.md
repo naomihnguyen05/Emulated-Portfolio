@@ -1,2 +1,2 @@
-# Emulated-Portfolio
- 
+# Emulated Portfolio
+For Project 2, we are assigned to emulate our projects using JavaScript. I decided to emulate my portfolio website from Project 1 to make it interactive and animated. I used 4 types of JavaScript to fulfill that experience. For my landing page, I used splitting.js to animate a blurring effect when the cursor moves in proximity of the text. For my about section, I used splitting.js to animate a liquid fill effect that alternates between white and grey. For my portfolio gallery, I used both scrollfade.js and jQuery. Scrollfade.js made the gallery sections fade in and out as you scroll. JQuery was used to create an image carousel when you click on the photos.
